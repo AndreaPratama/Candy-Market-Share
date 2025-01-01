@@ -106,4 +106,14 @@ The analysis provided several key insights:
 - Land Corp leads in sales for chips, while Silver Snacks and Cascade Confectionery top chocolate-related candies.
 - Small and Specialty Stores account for the highest sales volume and revenue, contributing 78.86% of the total.
 
+## Achievements
+- 🥇 **Top 5 Finalists** in the FP20 Analytics Zoomchart Challenge 21.
+
+
+| Top 5 Finalists | 
+|----------|
+| ![](achievement.jpg)
+
+Winner Announcement [Zoomchart](https://www.linkedin.com/posts/zoomcharts_zoomcharts-fp20analytics-powerbi-activity-7273026316000460800-V1OA?utm_source=share&utm_medium=member_desktop)
+
 
